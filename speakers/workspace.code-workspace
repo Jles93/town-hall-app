@@ -1,0 +1,19 @@
+{
+	"folders": [
+		{
+			"path": "..\\images"
+		},
+		{
+			"path": "..\\media"
+		},
+		{
+			"path": "."
+		},
+		{
+			"path": "..\\styles"
+		},
+		{
+			"path": "..\\templates"
+		}
+	]
+}
